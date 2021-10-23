@@ -1,0 +1,219 @@
+C:\Users\Student\source\repos\myImage\myImage\bin\myImage.dll.config
+C:\Users\Student\source\repos\myImage\myImage\bin\myImage.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\myImage.pdb
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csc.exe
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csc.exe.config
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csc.rsp
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csi.exe
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csi.exe.config
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\csi.rsp
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.AppContext.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Console.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\vbc.exe
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\vbc.exe.config
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\vbc.rsp
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\source\repos\myImage\myImage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\source\repos\myImage\myImage\bin\EntityFramework.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Helpers.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Mvc.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Razor.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\source\repos\myImage\myImage\bin\EntityFramework.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Razor.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Helpers.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\System.Web.Mvc.xml
+C:\Users\Student\source\repos\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\source\repos\myImage\myImage\obj\Debug\myImage.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\myImage\myImage\obj\Debug\myImage.csproj.CopyComplete
+C:\Users\Student\source\repos\myImage\myImage\obj\Debug\myImage.dll
+C:\Users\Student\source\repos\myImage\myImage\obj\Debug\myImage.pdb
+C:\Users\Student\source\repos\myImage\myImage\obj\Debug\myImage.csprojAssemblyReference.cache
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\myImage.dll.config
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\myImage.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\myImage.pdb
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csc.exe
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csc.exe.config
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csc.rsp
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csi.exe
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csi.exe.config
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\csi.rsp
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Console.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.IO.Compression.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Claims.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.ValueTuple.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\vbc.exe
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\vbc.exe.config
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\vbc.rsp
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\EntityFramework.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\EntityFramework.SqlServer.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Helpers.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Mvc.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Razor.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.Razor.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\EntityFramework.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\EntityFramework.SqlServer.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Razor.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Webpages.Razor.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Helpers.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\System.Web.Mvc.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad Israr\source\repos\myImage\myImage\obj\Debug\myImage.csprojAssemblyReference.cache
+C:\Users\muhammad Israr\source\repos\myImage\myImage\obj\Debug\myImage.csproj.CoreCompileInputs.cache
+C:\Users\muhammad Israr\source\repos\myImage\myImage\obj\Debug\myImage.csproj.CopyComplete
+C:\Users\muhammad Israr\source\repos\myImage\myImage\obj\Debug\myImage.dll
+C:\Users\muhammad Israr\source\repos\myImage\myImage\obj\Debug\myImage.pdb
+C:\Users\student\Downloads\myImage\myImage\bin\myImage.dll.config
+C:\Users\student\Downloads\myImage\myImage\bin\myImage.dll
+C:\Users\student\Downloads\myImage\myImage\bin\myImage.pdb
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csc.exe
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csc.exe.config
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csc.rsp
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csi.exe
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csi.exe.config
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\csi.rsp
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.AppContext.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Console.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Claims.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\vbc.exe
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\vbc.exe.config
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\vbc.rsp
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Downloads\myImage\myImage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Downloads\myImage\myImage\bin\EntityFramework.dll
+C:\Users\student\Downloads\myImage\myImage\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Downloads\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Downloads\myImage\myImage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Helpers.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Mvc.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Razor.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.dll
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.Razor.dll
+C:\Users\student\Downloads\myImage\myImage\bin\EntityFramework.xml
+C:\Users\student\Downloads\myImage\myImage\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Razor.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Webpages.Razor.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Helpers.xml
+C:\Users\student\Downloads\myImage\myImage\bin\System.Web.Mvc.xml
+C:\Users\student\Downloads\myImage\myImage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Downloads\myImage\myImage\obj\Debug\myImage.csprojAssemblyReference.cache
+C:\Users\student\Downloads\myImage\myImage\obj\Debug\myImage.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\myImage\myImage\obj\Debug\myImage.csproj.CopyComplete
+C:\Users\student\Downloads\myImage\myImage\obj\Debug\myImage.dll
+C:\Users\student\Downloads\myImage\myImage\obj\Debug\myImage.pdb
